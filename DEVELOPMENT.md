@@ -20,3 +20,6 @@
 ## 10/04/2018
   * Adding models from .obj files.
   * Lighting
+    * Reflective lighting on objects
+  * Terrain
+  * Optimising rendering methods.

@@ -12,3 +12,11 @@
   * Shaded quad using vertex and fragment shaders as a .txt file and parsing and binding it to a shader program.
   * Textures
   
+## 09/04/2018
+  * Matrices for
+    * Moving the "camera" and world
+    * Transforming entities
+
+## 10/04/2018
+  * Adding models from .obj files.
+  * Lighting
